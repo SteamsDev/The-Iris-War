@@ -1,0 +1,55 @@
+Player:
+	-ConquestVictoryConditions:
+	MissionObjectives:
+		EarlyGameOver: true
+	Shroud:
+		FogCheckboxLocked: True
+		FogCheckboxEnabled: True
+		ExploredMapCheckboxLocked: True
+		ExploredMapCheckboxEnabled: False
+	PlayerResources:
+		DefaultCashDropdownLocked: True
+		DefaultCash: 7500
+
+World:
+	CrateSpawner:
+		CheckboxEnabled: False
+		CheckboxLocked: True
+	-SpawnMPUnits:
+	-MPStartLocations:
+	ObjectivesPanel:
+		PanelName: MISSION_OBJECTIVES
+	MapBuildRadius:
+		AllyBuildRadiusCheckboxLocked: True
+		AllyBuildRadiusCheckboxEnabled: False
+		BuildRadiusCheckboxLocked: True
+		BuildRadiusCheckboxEnabled: True
+	MapOptions:
+		TechLevel: medium
+		TechLevelDropdownLocked: True
+		ShortGameCheckboxLocked: True
+		ShortGameCheckboxEnabled: False
+	TimeLimitManager:
+		CountdownLabel: MISSION_TEXT
+		CountdownText: Time until extraction is complete: {0}
+		SkipTimerExpiredNotification: True
+	LuaScript:
+		Scripts: japan3.lua
+	MissionData:
+		Briefing: Iris War - Japan - Penta Mission 3\n\nThe Penta have captured a DA research facility and are currently extracting data from it. However the DA have regrouped and want to take back the facility and, worse, the Nitro have cut off Penta's supply route, amking reinforcements unlikely. You must defend the facility and eliminate both sides.\n\nObjective 1: Defend the research facility until extraction is complete.\nObjective 2: Destroy the Nitro and DA.
+
+powerproxy.airborne:
+	Buildable:
+		Queue: None
+
+powerproxy.airborne.tank:
+	Buildable:
+		Queue: None
+
+gps.satellite:
+	Buildable:
+		Queue: None
+
+gps.satellite.firstscan:
+	Buildable:
+		Queue: None
