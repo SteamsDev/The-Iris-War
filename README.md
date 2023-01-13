@@ -24,7 +24,7 @@ For over 100 years, the capital nations of the three major continents - North Am
 <h4>Nations of Shade</h4>
 <img src="https://user-images.githubusercontent.com/20361090/212180948-1c31c3b0-8f08-4079-afca-5802e2544345.png" width="512" height="300">
  
-<p>The Shade comprises of the remnants of the Iris Alliance after the split. They specialize in laser technology and pushed the limits of light and plasma. The governing body before the split was moving towards a regimen for government-provided care and insurance. The former Iris Alliance, not known as the Shade, occupies the major areas that the alliance held onto during the Iris War.</p>
+<p>The Shade comprises of the remnants of the Iris Alliance after the split. They specialize in laser technology and pushed the limits of light and plasma. The governing body before the split was moving towards a regimen for government-provided care and insurance. The former Iris Alliance, now known as the Shade, occupies the major areas that the alliance held onto during the Iris War.</p>
 
 <h4>Nitro Orthodoxy</h4>
  <img src="https://user-images.githubusercontent.com/20361090/212181059-332e878e-012a-4e9a-9c5c-7a6ed63dbab3.png" width="512" height="300">
