@@ -1,6 +1,6 @@
 # The Iris War
 
-The Iris War is a project on the platform OpenRA: Combined Arms, as a playable singleplayer campaign for the mod. This is still in development with a lot of missions and stories coming some time down the line, so pay attention for any updates!
+The Iris War is a project on the platform OpenRA: Combined Arms, as a playable singleplayer campaign for the mod. This is still in development with a lot of missions and stories coming some time down the line, so pay attention for any updates! <p>Requires Combined Arms 0.82 or later.</p>
 
 # To Install
 
