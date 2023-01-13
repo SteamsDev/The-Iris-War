@@ -75,9 +75,6 @@ Actors:
 	Actor7: hq
 		Owner: DA
 		Location: 57,39
-	Actor8: proc.td
-		Owner: DA
-		Location: 67,31
 	Actor9: rushouse3
 		Owner: Neutral
 		Location: 28,14
@@ -246,9 +243,6 @@ Actors:
 	Actor74: gtwr
 		Owner: DA
 		Location: 66,44
-	Actor75: atwr
-		Owner: DA
-		Location: 70,30
 	Actor76: atwr
 		Owner: DA
 		Location: 59,28
@@ -784,5 +778,26 @@ Actors:
 	Actor239: oilb
 		Owner: Neutral
 		Location: 15,37
+	Actor240: proc.td
+		Owner: DA
+		Location: 67,31
+	Actor241: atwr
+		Owner: DA
+		Location: 71,31
+	Actor242: fcom
+		Owner: Neutral
+		Location: 14,17
+	Actor243: v16
+		Owner: Neutral
+		Location: 45,60
+	Actor244: v17
+		Owner: Neutral
+		Location: 46,60
+	Actor245: v15
+		Owner: Neutral
+		Location: 44,58
+	Actor246: v14
+		Owner: Neutral
+		Location: 43,58
 
 Rules: rules.yaml
