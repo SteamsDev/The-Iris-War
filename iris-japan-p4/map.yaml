@@ -281,9 +281,6 @@ Actors:
 	Actor79: brik
 		Owner: Neutral
 		Location: 33,6
-	Actor82: nuk2
-		Owner: DA
-		Location: 26,2
 	Actor83: nuk2
 		Owner: DA
 		Location: 35,2
@@ -311,9 +308,6 @@ Actors:
 	Actor91: weap.td
 		Owner: DA
 		Location: 24,11
-	Actor92: afac
-		Owner: DA
-		Location: 22,2
 	Actor93: hq
 		Owner: DA
 		Location: 25,6
@@ -709,9 +703,6 @@ Actors:
 	Actor231: sbag
 		Owner: Neutral
 		Location: 51,17
-	Actor232: sbag
-		Owner: Neutral
-		Location: 52,17
 	Actor233: sbag
 		Owner: Neutral
 		Location: 57,17
@@ -850,5 +841,137 @@ Actors:
 	Actor278: rushouse
 		Owner: Neutral
 		Location: 16,67
+	Actor279: afac
+		Owner: DA
+		Location: 25,2
+	Actor280: nuk2
+		Owner: DA
+		Location: 22,2
+	Actor281: nuk2
+		Owner: DA
+		Location: 22,6
+	Actor282: nuk2
+		Owner: DA
+		Location: 2,13
+	Actor283: nuk2
+		Owner: DA
+		Location: 5,13
+	Actor286: sbag
+		Owner: Neutral
+		Location: 55,17
+	Actor284: nuk2
+		Owner: DA
+		Location: 55,13
+	Actor285: nuk2
+		Owner: DA
+		Location: 58,13
+	Actor287: tc04
+		Owner: Neutral
+		Location: 53,57
+	Actor288: tc01
+		Owner: Neutral
+		Location: 58,58
+	Actor289: tc01
+		Owner: Neutral
+		Location: 43,61
+	Actor290: tc03
+		Owner: Neutral
+		Location: 45,62
+	Actor291: t11
+		Owner: Neutral
+		Location: 14,32
+	Actor292: t14
+		Owner: Neutral
+		Location: 2,32
+	Actor293: t10
+		Owner: Neutral
+		Location: 2,29
+	Actor294: t10
+		Owner: Neutral
+		Location: 39,66
+	Actor295: t15
+		Owner: Neutral
+		Location: 35,71
+	Actor296: t15
+		Owner: Neutral
+		Location: 54,40
+	Actor297: t15
+		Owner: Neutral
+		Location: 42,35
+	Actor298: t15
+		Owner: Neutral
+		Location: 41,28
+	Actor299: t02
+		Owner: Neutral
+		Location: 51,58
+	Actor300: t06
+		Owner: Neutral
+		Location: 45,56
+	Actor301: tc05
+		Owner: Neutral
+		Location: 52,61
+	Actor302: ice01
+		Owner: Neutral
+		Location: 54,53
+	Actor303: t17
+		Owner: Neutral
+		Location: 56,43
+	Actor304: t02
+		Owner: Neutral
+		Location: 44,41
+	Actor305: t07
+		Owner: Neutral
+		Location: 39,45
+	Actor306: arco
+		Owner: Neutral
+		Location: 53,43
+	Actor307: v10
+		Owner: Neutral
+		Location: 45,42
+	Actor308: v01
+		Owner: Neutral
+		Location: 37,29
+	Actor309: v19
+		Owner: Neutral
+		Location: 48,43
+	Actor310: v12
+		Owner: Neutral
+		Location: 18,36
+	Actor311: v07
+		Owner: Neutral
+		Location: 42,42
+	Actor312: v02
+		Owner: Neutral
+		Location: 37,23
+	Actor313: v03
+		Owner: Neutral
+		Location: 46,32
+	Actor314: v06
+		Owner: Neutral
+		Location: 38,42
+	Actor315: v05
+		Owner: Neutral
+		Location: 35,38
+	Actor316: v04
+		Owner: Neutral
+		Location: 35,35
+	Actor317: t11
+		Owner: Neutral
+		Location: 21,15
+	Actor318: t11
+		Owner: Neutral
+		Location: 24,15
+	Actor319: t11
+		Owner: Neutral
+		Location: 27,15
+	Actor320: t11
+		Owner: Neutral
+		Location: 34,15
+	Actor321: t11
+		Owner: Neutral
+		Location: 37,15
+	Actor322: t11
+		Owner: Neutral
+		Location: 40,15
 
 Rules: rules.yaml
