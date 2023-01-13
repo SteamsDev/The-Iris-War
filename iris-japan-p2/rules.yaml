@@ -1,0 +1,59 @@
+Player:
+	-ConquestVictoryConditions:
+	MissionObjectives:
+		EarlyGameOver: true
+	Shroud:
+		FogCheckboxLocked: True
+		FogCheckboxEnabled: True
+		ExploredMapCheckboxLocked: True
+		ExploredMapCheckboxEnabled: False
+	PlayerResources:
+		DefaultCashDropdownLocked: True
+		DefaultCash: 5000
+
+World:
+	CrateSpawner:
+		CheckboxEnabled: False
+		CheckboxLocked: True
+	-SpawnMPUnits:
+	-MPStartLocations:
+	ObjectivesPanel:
+		PanelName: MISSION_OBJECTIVES
+	MapBuildRadius:
+		AllyBuildRadiusCheckboxLocked: True
+		AllyBuildRadiusCheckboxEnabled: False
+		BuildRadiusCheckboxLocked: True
+		BuildRadiusCheckboxEnabled: True
+	MapOptions:
+		TechLevel: medium
+		TechLevelDropdownLocked: True
+		ShortGameCheckboxLocked: True
+		ShortGameCheckboxEnabled: False
+	LuaScript:
+		Scripts: japan2.lua
+	MissionData:
+		Briefing: Iris War - Japan - Penta Mission 2\n\nPushing further into the city, the Penta encounter the Nitro Orthodoxy in the middle of a choke point owned by the DA. Both stand in the way of the Penta and conflict with their plans. You are ordered to destroy both sides.\n\nObjective: Destroy the DA and Nitro bases.
+
+powerproxy.airborne:
+	Buildable:
+		Queue: None
+
+powerproxy.airborne.tank:
+	Buildable:
+		Queue: None
+
+gps.satellite:
+	Buildable:
+		Queue: None
+
+gps.satellite.firstscan:
+	Buildable:
+		Queue: None
+
+MCV:
+	Buildable:
+		Prerequisites: ~disabled
+
+AMCV:
+	Buildable:
+		Prerequisites: ~disabled
