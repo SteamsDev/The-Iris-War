@@ -65,3 +65,4 @@ AMCV:
 UPGC:
 	Tooltip:
 		Name: DA Research Facility
+	-Sellable:

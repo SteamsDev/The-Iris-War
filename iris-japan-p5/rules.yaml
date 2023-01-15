@@ -9,7 +9,7 @@ Player:
 		ExploredMapCheckboxEnabled: False
 	PlayerResources:
 		DefaultCashDropdownLocked: True
-		DefaultCash: 4000
+		DefaultCash: 5000
 
 World:
 	CrateSpawner:
@@ -30,9 +30,9 @@ World:
 		ShortGameCheckboxLocked: True
 		ShortGameCheckboxEnabled: False
 	LuaScript:
-		Scripts: japan4.lua
+		Scripts: japan5.lua
 	MissionData:
-		Briefing: Iris War - Japan - Penta Mission 4\n\nThe "Direct Attack" Headquarters is now within striking distance of the Penta. This time the Nitro have been kept at bay, allowing for a one-on-one fight to the death. You have only one goal: Capture the DA headquarters and force them to surrender!\n\nObjective: Capture (but don't destroy) the DA Headquarters.
+		Briefing: Iris War - Japan - Penta Mission 5\n\nThe remaining DA forces at the HQ have surrendered to Penta, but the DA leaders were nowhere to be found. The Penta would later learn that they had escaped from the area and have taken refuge at Nitro. With a new primary enemy in the area, after a short rest break, the Penta continue the push to put the Nitro Orthodoxy in its place.\n\nObjective: Eliminate all Nitro forces.
 
 powerproxy.airborne:
 	Buildable:
@@ -50,15 +50,14 @@ gps.satellite.firstscan:
 	Buildable:
 		Queue: None
 
+MCV:
+	Buildable:
+		Prerequisites: ~disable
+
 AMCV:
 	Buildable:
-		Prerequisites: ~disabled
+		Prerequisites: ~disable
 
 RMBO:
 	Buildable:
-		Prerequisites: ~disabled
-
-GTEK:
-	Tooltip:
-		Name: DA Headquarters
-	-Sellable:
+		Prerequisites: ~disable

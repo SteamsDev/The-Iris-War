@@ -26,6 +26,12 @@ WorldLoaded = function()
 
 	Media.DisplayMessage("Our allies are pushing through the Nitro resistance now. Hold steady until they arrive.")
 
+	Trigger.OnDamaged(ResearchFacility, function()
+		if ExtractionComplete == false then
+			Media.DisplayMessage("The research facility is under attack! Defend it!", "WARNING: ")
+		end
+	end)
+
 	Trigger.OnKilled(ResearchFacility, function()
 		if (ExtractionComplete == false) then
 			Penta.MarkFailedObjective(DefendObjective)
