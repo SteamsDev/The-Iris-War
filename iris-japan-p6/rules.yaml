@@ -31,10 +31,14 @@ World:
 		TechLevelDropdownLocked: True
 		ShortGameCheckboxLocked: True
 		ShortGameCheckboxEnabled: False
+	TimeLimitManager:
+		CountdownLabel: MISSION_TEXT
+		CountdownText: Time until the Shade arrive: {0}
+		SkipTimerExpiredNotification: True
 	LuaScript:
-		Scripts: japan5.lua
+		Scripts: japan6.lua
 	MissionData:
-		Briefing: Iris War - Japan - Penta Mission 5\n\nThe remaining DA forces at the HQ have surrendered to Penta, but the DA leaders were nowhere to be found. The Penta would later learn that they had escaped from the area and have taken refuge at Nitro. With a new primary enemy in the area, after a short rest break, the Penta continue the push to put the Nitro Orthodoxy in its place.\n\nObjective: Eliminate all Nitro forces.
+		Briefing: Iris War - Japan - Penta Mission 6\n\nThe Penta have encountered a critical choke point owned by the Nitro. They plan to take it and use it to mount an attack on the main Nitro facility, but then intel reports that the Nations of Shade have made landfall and are rapidly approaching the area. They have a chance to take the choke point, but they wonder if the timing is right or if they have to wait for the Shade...\n\nObjective: Eliminate the Nitro (and Shade if they arrive).
 
 powerproxy.airborne:
 	Buildable:
@@ -63,3 +67,7 @@ AMCV:
 RMBO:
 	Buildable:
 		Prerequisites: ~disable
+
+BORI:
+	Buildable:
+		Prerequisites: ~disabled

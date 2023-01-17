@@ -10,6 +10,8 @@ Player:
 	PlayerResources:
 		DefaultCashDropdownLocked: True
 		DefaultCash: 5000
+	LobbyPrerequisiteCheckbox@REVEALONFIRE:
+		Enabled: True
 
 World:
 	CrateSpawner:

@@ -5,7 +5,7 @@ WorldLoaded = function()
 	Penta.Cash = 8000
 
 	CaptureObjective = Penta.AddPrimaryObjective("Capture the DA Headquarters.")
-	Media.DisplayMessage("Capture the DA Headquarters. DO NOT DESTROY IT!!!", "Objective: ")
+	Media.DisplayMessage("Capture the DA Headquarters. DO NOT DESTROY IT!!!", "Objective")
 
 	Trigger.OnKilled(DAHQ, function()
 		Player.MarkFailedObjective(CaptureObjective)
