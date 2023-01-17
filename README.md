@@ -19,17 +19,17 @@ For over 100 years, the capital nations of the three major continents - North Am
 <h4>Penta Elite Force</h4>
 <img src="https://user-images.githubusercontent.com/20361090/212180470-77ba8800-d2d3-42ec-8103-848daf472e2a.png" width="512" height="300">
 
-<p>The Penta is a group that believes in a capital market controlled by independent governments. They were the first to engineer advanced naval forces as well as complete facilities built on water. The alliance benefitted from their leadership and advancement in technology before the split. The Penta occupy most of the uninhabited areas owned by independent organizations that joined forces with Penta.</p>
+<p>The Penta is a group that believes in a capital market controlled by independent governments. They specialize in laser technology and pushed the limits of light and plasma. The alliance benefitted from their leadership and advancement in technology before the split. The Penta occupy most of the uninhabited areas owned by independent organizations that joined forces with Penta.</p>
 
 <h4>Nations of Shade</h4>
 <img src="https://user-images.githubusercontent.com/20361090/212180948-1c31c3b0-8f08-4079-afca-5802e2544345.png" width="512" height="300">
  
-<p>The Shade comprises of the remnants of the Iris Alliance after the split. They specialize in laser technology and pushed the limits of light and plasma. The governing body before the split was moving towards a regimen for government-provided care and insurance. The former Iris Alliance, now known as the Shade, occupies the major areas that the alliance held onto during the Iris War.</p>
+<p>The Shade was what’s left of the Iris Alliance after the split. They were the first to engineer advanced naval forces as well as complete facilities built on water. The governing body before the split was moving towards a regimen for government-provided care and insurance. The former Iris Alliance, not known as the Shade, occupies the major areas that the alliance held onto during the Iris War.</p>
 
 <h4>Nitro Orthodoxy</h4>
  <img src="https://user-images.githubusercontent.com/20361090/212181059-332e878e-012a-4e9a-9c5c-7a6ed63dbab3.png" width="512" height="300">
 
-<p>The Nitro is a rebel group once associated with the Iris Alliance. They began shifting towards an all-girl team and began implementing older, more robust technologies shortly after the split. They specialize in swift, fast attacks and hit-and-run tactics, as well as repurpose older technologies to supply their war machines. The Nitro made their presence known by attacking and occupying land from both the Nations of Shade and the Penta Elite Force.</p>
+<p>The Nitro is a rebel group once associated with the Iris Alliance. They began shifting towards an all-girl team and began implementing older, more robust technologies shortly after the split. They specialize in war machines capable of mass destruction, as well as repurpose older technologies to supply their army. The Nitro made their presence known by attacking and occupying land from both the Nations of Shade and the Penta Elite Force.</p>
 
 # Stories
 
