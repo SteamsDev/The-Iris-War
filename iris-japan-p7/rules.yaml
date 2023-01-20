@@ -1,0 +1,63 @@
+Player:
+	-ConquestVictoryConditions:
+	MissionObjectives:
+		EarlyGameOver: true
+	Shroud:
+		FogCheckboxLocked: True
+		FogCheckboxEnabled: True
+		ExploredMapCheckboxLocked: True
+		ExploredMapCheckboxEnabled: False
+	PlayerResources:
+		DefaultCashDropdownLocked: True
+		DefaultCash: 7000
+	LobbyPrerequisiteCheckbox@REVEALONFIRE:
+		Enabled: True
+
+World:
+	CrateSpawner:
+		CheckboxEnabled: False
+		CheckboxLocked: True
+	-SpawnMPUnits:
+	-MPStartLocations:
+	ObjectivesPanel:
+		PanelName: MISSION_OBJECTIVES
+	MapBuildRadius:
+		AllyBuildRadiusCheckboxLocked: True
+		AllyBuildRadiusCheckboxEnabled: False
+		BuildRadiusCheckboxLocked: True
+		BuildRadiusCheckboxEnabled: True
+	MapOptions:
+		TechLevel: unrestricted
+		TechLevelDropdownLocked: True
+		ShortGameCheckboxLocked: True
+		ShortGameCheckboxEnabled: False
+	LuaScript:
+		Scripts: japan7.lua
+	MissionData:
+		Briefing: Iris War - Japan - Penta Mission 7 (Final)\n\nThe Penta approach the newly built DA headquarters - now a base of operations for the Nitro-DA joint effort. You goal is simple: bring an end to the DA and show the Nitro that you are the one who has claim to this land. The Shade are also in this area, but they should prove to be of no concern to you. Focus your efforts on the Nitro and DA and show them who's boss around here!\n\nObjective: Capture or destroy the DA headquarters.\nBonus Objective 1: Destroy the Nitro base.\nBonus Objective 2: Destroy the Shade base.
+
+powerproxy.airborne:
+	Buildable:
+		Queue: None
+
+powerproxy.airborne.tank:
+	Buildable:
+		Queue: None
+
+gps.satellite:
+	Buildable:
+		Queue: None
+
+gps.satellite.firstscan:
+	Buildable:
+		Queue: None
+
+RMBO:
+	Buildable:
+		Prerequisites: ~disabled
+
+GTEK:
+	Tooltip:
+		Name: DA Headquarters
+	-Buildable:
+	-Sellable:
