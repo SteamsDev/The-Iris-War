@@ -40,4 +40,7 @@ For over 100 years, the capital nations of the three major continents - North Am
 <p>As their resources steadily drain, The Shade decide to take control of Saudi Arabia, currently controlled by the Nitro, which contains many oil rserves and wells that can help fund their war efforts. The two would do battle until, as the Shade drew near, Nitro is forced to escape due to the Penta cutting them off at sea. The Shade believes they won, until the Penta infiltrates them from inside and assaults them from all angles. The Shade have to do their best to fight off the Penta and anticipate a move by Nitro at the same time.</p>
 
 <h4>Part 3: Brazil (Nitro Orthodoxy)</h4>
+<p>With Mexico firmly in their grasp, the Nitro push down towards the Shade's domain in Brazil, where a lot of the former Iris Alliance's well-kept secrets are stored. After capturing the Mayan Ruins and the State of Amazonas, they secure an ore field and use the local militia to expand their arsenal. They eventually come close to the Shade's main headquarters in Brazil, but something becomes amiss among the Nitro ranks, and the seemingly easy quest started to take a turn...</p>
+
+<h4>Part 4: Alaska (Penta Elite Force)</h4>
 <p>To be written.</p>
