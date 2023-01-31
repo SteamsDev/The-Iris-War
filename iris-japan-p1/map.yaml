@@ -40,7 +40,7 @@ Players:
 		Enemies: DA
 	PlayerReference@PentaAlly:
 		Name: PentaAlly
-		Bot: normal
+		Bot: campaign
 		Faction: usa
 		Color: CA57B4
 		Allies: Penta
@@ -861,14 +861,6 @@ Actors:
 	Actor258: nuke
 		Owner: DA
 		Location: 8,14
-	Actor261: dd2
-		Owner: Penta
-		Location: 47,37
-		Facing: 1023
-	Actor262: dd2
-		Owner: Penta
-		Location: 55,37
-		Facing: 0
 	Actor259: afac
 		Owner: DA
 		Location: 52,5
@@ -907,19 +899,6 @@ Actors:
 	AllyDropoffTwo: waypoint
 		Owner: Neutral
 		Location: 18,27
-	Actor273: dd
-		Owner: PentaAlly
-		Location: 17,30
-		Facing: 0
-	Actor274: dd
-		Owner: PentaAlly
-		Location: 12,28
-		TurretFacing@PRIMARY: 0
-		Facing: 0
-	Actor275: dd
-		Owner: PentaAlly
-		Location: 9,28
-		Facing: 0
 	Actor269: pt
 		Owner: DA
 		Location: 47,28
@@ -948,23 +927,33 @@ Actors:
 		Owner: DA
 		Location: 19,32
 		Facing: 126
-	Actor281: pt
-		Owner: DA
-		Location: 12,34
-		TurretFacing: 0
-		Facing: 190
-	Actor282: dd
-		Owner: PentaAlly
-		Location: 23,29
-		Facing: 0
-	Actor271: dd
-		Owner: PentaAlly
-		TurretFacing@PRIMARY: 0
-		Facing: 0
-		Location: 21,29
 	Actor272: gun.nod
 		Owner: DA
 		Location: 17,8
 		TurretFacing: 428
+	Actor271: dd
+		Owner: PentaAlly
+		Location: 9,29
+		Facing: 0
+	Actor273: dd
+		Owner: PentaAlly
+		Location: 13,29
+		Facing: 0
+	Actor274: dd
+		Owner: PentaAlly
+		Location: 18,31
+		Facing: 0
+	Actor275: dd
+		Owner: PentaAlly
+		Location: 23,30
+		Facing: 0
+	Actor276: ca
+		Owner: PentaAlly
+		Location: 12,35
+		Facing: 277
+	Actor277: ca
+		Owner: PentaAlly
+		Location: 17,35
+		Facing: 261
 
 Rules: rules.yaml
