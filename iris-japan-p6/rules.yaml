@@ -34,6 +34,7 @@ World:
 	TimeLimitManager:
 		CountdownLabel: MISSION_TEXT
 		CountdownText: Time until the Shade arrive: {0}
+		Notification: {0} minute{1} until the Shade arrive.
 		SkipTimerExpiredNotification: True
 	LuaScript:
 		Scripts: japan6.lua

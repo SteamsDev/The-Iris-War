@@ -56,6 +56,8 @@ WorldLoaded = function()
 		end
 	end)
 
+	-- Unused - Enable only when but set to something other than campaign.
+	--[[
 	Trigger.AfterDelay(DateTime.Seconds(5), function()
 		Reinforcements.Reinforce(PentaAlly, Destroyer, {AllyWaypointOne.Location})
 		Reinforcements.Reinforce(PentaAlly, Destroyer, {AllyWaypointTwo.Location})
@@ -64,6 +66,7 @@ WorldLoaded = function()
 			Reinforcements.Reinforce(PentaAlly, Destroyer, {AllyWaypointTwo.Location})
 		end)
 	end)
+	--]]
 
 	Trigger.OnAllKilled(TurretsWest, function()
 		ReinforcePlayerWhenBeachheadDestroyed()

@@ -34,6 +34,7 @@ World:
 	TimeLimitManager:
 		CountdownLabel: MISSION_TEXT
 		CountdownText: Time until extraction is complete: {0}
+		Notification: {0} minute{1} until extraction is complete.
 		SkipTimerExpiredNotification: True
 	LuaScript:
 		Scripts: japan3.lua
