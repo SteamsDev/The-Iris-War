@@ -1,12 +1,4 @@
 Player:
-	-ConquestVictoryConditions:
-	MissionObjectives:
-		EarlyGameOver: true
-	Shroud:
-		FogCheckboxLocked: True
-		FogCheckboxEnabled: True
-		ExploredMapCheckboxLocked: True
-		ExploredMapCheckboxEnabled: False
 	PlayerResources:
 		DefaultCashDropdownLocked: True
 		DefaultCash: 4000
@@ -14,27 +6,13 @@ Player:
 		Enabled: True
 
 World:
-	CrateSpawner:
-		CheckboxEnabled: False
-		CheckboxLocked: True
-	-SpawnMPUnits:
-	-MPStartLocations:
-	ObjectivesPanel:
-		PanelName: MISSION_OBJECTIVES
-	MapBuildRadius:
-		AllyBuildRadiusCheckboxLocked: True
-		AllyBuildRadiusCheckboxEnabled: False
-		BuildRadiusCheckboxLocked: True
-		BuildRadiusCheckboxEnabled: True
 	MapOptions:
 		TechLevel: high
 		TechLevelDropdownLocked: True
-		ShortGameCheckboxLocked: True
-		ShortGameCheckboxEnabled: False
 	LuaScript:
 		Scripts: japan4.lua
 	MissionData:
-		Briefing: Iris War - Japan - Penta Mission 4\n\nThe "Direct Attack" Headquarters is now within striking distance of the Penta. This time the Nitro have been kept at bay, allowing for a one-on-one fight to the death. You have only one goal: Capture the DA headquarters and force them to surrender!\n\nObjective: Capture (but don't destroy) the DA Headquarters.
+		Briefing: Iris War - Japan - Penta Mission 4: Locally Burned\n\nThe "Direct Attack" Headquarters is now within striking distance of the Penta. This time the Nitro have been kept at bay, allowing for a one-on-one fight to the death. You have only one goal: Capture the DA headquarters and force them to surrender!\n\nObjective: Capture (but don't destroy) the DA Headquarters.
 
 powerproxy.airborne:
 	Buildable:

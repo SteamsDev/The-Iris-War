@@ -28,7 +28,7 @@ WorldLoaded = function()
 
 	Trigger.OnDamaged(ResearchFacility, function()
 		if ExtractionComplete == false then
-			Media.DisplayMessage("The research facility is under attack! Defend it!", "WARNING: ")
+			Media.DisplayMessage("The research facility is under attack! Defend it!", "WARNING")
 		end
 	end)
 

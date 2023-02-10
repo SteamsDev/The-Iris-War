@@ -1773,4 +1773,4 @@ Actors:
 		Owner: Neutral
 		Location: 81,87
 
-Rules: rules.yaml
+Rules: ca|rules/campaign-rules.yaml, rules.yaml

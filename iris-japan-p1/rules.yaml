@@ -1,40 +1,16 @@
 Player:
-	-ConquestVictoryConditions:
-	MissionObjectives:
-		EarlyGameOver: true
-	Shroud:
-		FogCheckboxLocked: True
-		FogCheckboxEnabled: True
-		ExploredMapCheckboxLocked: True
-		ExploredMapCheckboxEnabled: False
 	PlayerResources:
 		DefaultCashDropdownLocked: True
 		DefaultCash: 4000
-	LobbyPrerequisiteCheckbox@REVEALONFIRE:
-		Enabled: True
 
 World:
-	CrateSpawner:
-		CheckboxEnabled: False
-		CheckboxLocked: True
-	-SpawnMPUnits:
-	-MPStartLocations:
-	ObjectivesPanel:
-		PanelName: MISSION_OBJECTIVES
-	MapBuildRadius:
-		AllyBuildRadiusCheckboxLocked: True
-		AllyBuildRadiusCheckboxEnabled: False
-		BuildRadiusCheckboxLocked: True
-		BuildRadiusCheckboxEnabled: True
 	MapOptions:
 		TechLevel: low
 		TechLevelDropdownLocked: True
-		ShortGameCheckboxLocked: True
-		ShortGameCheckboxEnabled: False
 	LuaScript:
 		Scripts: japan1.lua
 	MissionData:
-		Briefing: Iris War - Japan - Penta Mission 1\n\nJapan is now within the grasps of the Penta Elite Force. The first step is to invade the beaches south of Yokohama and work inward to Tokyo. A force of armed militia known as "Direct Attack" stands ready to defend the beaches, but none shall stand in the path of the Penta.\n\nObjective: Eliminate the DA forces at the beachhead.
+		Briefing: Iris War - Japan - Penta Mission 1: A Warm Welcome\n\nJapan is now within the grasps of the Penta Elite Force. The first step is to invade the beaches south of Yokohama and work inward to Tokyo. A force of armed militia known as "Direct Attack" stands ready to defend the beaches, but none shall stand in the path of the Penta.\n\nObjective: Eliminate the DA forces at the beachhead.
 
 GTNK.squad:
 	Buildable:

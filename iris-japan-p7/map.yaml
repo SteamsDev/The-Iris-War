@@ -1053,4 +1053,4 @@ Actors:
 		Owner: DA
 		Location: 18,48
 
-Rules: rules.yaml
+Rules: ca|rules/campaign-rules.yaml, rules.yaml

@@ -1,12 +1,4 @@
 Player:
-	-ConquestVictoryConditions:
-	MissionObjectives:
-		EarlyGameOver: true
-	Shroud:
-		FogCheckboxLocked: True
-		FogCheckboxEnabled: True
-		ExploredMapCheckboxLocked: True
-		ExploredMapCheckboxEnabled: False
 	PlayerResources:
 		DefaultCashDropdownLocked: True
 		DefaultCash: 5000
@@ -14,23 +6,9 @@ Player:
 		Enabled: True
 
 World:
-	CrateSpawner:
-		CheckboxEnabled: False
-		CheckboxLocked: True
-	-SpawnMPUnits:
-	-MPStartLocations:
-	ObjectivesPanel:
-		PanelName: MISSION_OBJECTIVES
-	MapBuildRadius:
-		AllyBuildRadiusCheckboxLocked: True
-		AllyBuildRadiusCheckboxEnabled: False
-		BuildRadiusCheckboxLocked: True
-		BuildRadiusCheckboxEnabled: True
 	MapOptions:
 		TechLevel: high
 		TechLevelDropdownLocked: True
-		ShortGameCheckboxLocked: True
-		ShortGameCheckboxEnabled: False
 	TimeLimitManager:
 		CountdownLabel: MISSION_TEXT
 		CountdownText: Time until the Shade arrive: {0}
@@ -39,7 +17,7 @@ World:
 	LuaScript:
 		Scripts: japan6.lua
 	MissionData:
-		Briefing: Iris War - Japan - Penta Mission 6\n\nThe Penta have encountered a critical choke point owned by the Nitro. They plan to take it and use it to mount an attack on the main Nitro facility, but then intel reports that the Nations of Shade have made landfall and are rapidly approaching the area. They have a chance to take the choke point, but they wonder if the timing is right or if they have to wait for the Shade...\n\nObjective: Eliminate the Nitro (and Shade if they arrive).
+		Briefing: Iris War - Japan - Penta Mission 6: Heavy Choke\n\nThe Penta have encountered a critical choke point owned by the Nitro. They plan to take it and use it to mount an attack on the main Nitro facility, but then intel reports that the Nations of Shade have made landfall and are rapidly approaching the area. They have a chance to take the choke point, but they wonder if the timing is right or if they have to wait for the Shade...\n\nObjective: Eliminate the Nitro (and Shade if they arrive).
 
 powerproxy.airborne:
 	Buildable:

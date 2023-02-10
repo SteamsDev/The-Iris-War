@@ -1031,4 +1031,4 @@ Actors:
 		Owner: Neutral
 		Location: 7,82
 
-Rules: rules.yaml
+Rules: ca|rules/campaign-rules.yaml, rules.yaml

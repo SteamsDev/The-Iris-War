@@ -1,12 +1,4 @@
 Player:
-	-ConquestVictoryConditions:
-	MissionObjectives:
-		EarlyGameOver: true
-	Shroud:
-		FogCheckboxLocked: True
-		FogCheckboxEnabled: True
-		ExploredMapCheckboxLocked: True
-		ExploredMapCheckboxEnabled: False
 	PlayerResources:
 		DefaultCashDropdownLocked: True
 		DefaultCash: 5000
@@ -14,27 +6,13 @@ Player:
 		Enabled: True
 
 World:
-	CrateSpawner:
-		CheckboxEnabled: False
-		CheckboxLocked: True
-	-SpawnMPUnits:
-	-MPStartLocations:
-	ObjectivesPanel:
-		PanelName: MISSION_OBJECTIVES
-	MapBuildRadius:
-		AllyBuildRadiusCheckboxLocked: True
-		AllyBuildRadiusCheckboxEnabled: False
-		BuildRadiusCheckboxLocked: True
-		BuildRadiusCheckboxEnabled: True
 	MapOptions:
 		TechLevel: high
 		TechLevelDropdownLocked: True
-		ShortGameCheckboxLocked: True
-		ShortGameCheckboxEnabled: False
 	LuaScript:
 		Scripts: japan5.lua
 	MissionData:
-		Briefing: Iris War - Japan - Penta Mission 5\n\nThe remaining DA forces at the HQ have surrendered to Penta, but the DA leaders were nowhere to be found. The Penta would later learn that they had escaped from the area and have taken refuge at Nitro. With a new primary enemy in the area, after a short rest break, the Penta continue the push to put the Nitro Orthodoxy in its place.\n\nObjective: Eliminate all Nitro forces.
+		Briefing: Iris War - Japan - Penta Mission 5: Shunned River\n\nThe remaining DA forces at the HQ have surrendered to Penta, but the DA leaders were nowhere to be found. The Penta would later learn that they had escaped from the area and have taken refuge at Nitro. With a new primary enemy in the area, after a short rest break, the Penta continue the push to put the Nitro Orthodoxy in its place.\n\nObjective: Eliminate all Nitro forces.
 
 powerproxy.airborne:
 	Buildable:
