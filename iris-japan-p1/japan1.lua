@@ -56,7 +56,7 @@ WorldLoaded = function()
 		end
 	end)
 
-	-- Unused - Enable only when but set to something other than campaign.
+	-- Unused - Enable only when bot set to something other than campaign.
 	--[[
 	Trigger.AfterDelay(DateTime.Seconds(5), function()
 		Reinforcements.Reinforce(PentaAlly, Destroyer, {AllyWaypointOne.Location})
