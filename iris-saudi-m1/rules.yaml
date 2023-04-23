@@ -13,3 +13,11 @@ World:
 		Scripts: saudi1.lua
 	MissionData:
 		Briefing: Iris War - Saudi Arabia - Shade Mission 1: Sands Alight\n\nA brand new day has emerged, and the Shade's conquest of Saudi Arabia has begun. The first order of business was to capture a nuclear power plant near the border of the nation.\n\nObjective 1: Capture the Nuclear Power Plant and the surrounding Nitro base.\nObjective 2: Eliminate the Nitro forces in the area.
+
+KATY:
+	Buildable:
+		Prerequisites: ~disabled
+
+IVAN:
+	Buildable:
+		Prerequisites: ~disabled

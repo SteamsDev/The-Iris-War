@@ -1,0 +1,23 @@
+Player:
+	PlayerResources:
+		DefaultCashDropdownLocked: True
+		DefaultCash: 6000
+	LobbyPrerequisiteCheckbox@REVEALONFIRE:
+		Enabled: True
+
+World:
+	MapOptions:
+		TechLevel: low
+		TechLevelDropdownLocked: True
+	LuaScript:
+		Scripts: saudi2.lua
+	MissionData:
+		Briefing: Iris War - Saudi Arabia - Shade Mission 2: Get the Oil Facilities!\n\nWith their presence declared, the SHade proceed towards their main goal of the expedition in the desert country: To steal the Nitro's oil facilities and use them to boost their economy. They approach a well-defended facility that could suit their needs.\n\nObjective 1: Capture all of the Nitro's oil derricks and refineries.\nObjective 2: Destroy all Nitro forces.
+
+KATY:
+	Buildable:
+		Prerequisites: ~disabled
+
+IVAN:
+	Buildable:
+		Prerequisites: ~disabled
