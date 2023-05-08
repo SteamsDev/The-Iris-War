@@ -44,3 +44,6 @@ For over 100 years, the capital nations of the three major continents - North Am
 
 <h4>Part 4: Alaska (Penta Elite Force)</h4>
 <p>To be written.</p>
+
+<h4>Part 5: United Kingdom (Nations of Shade)</h4>
+<p>To be written </p>
