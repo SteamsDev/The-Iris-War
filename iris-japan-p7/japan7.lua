@@ -8,7 +8,7 @@ WorldLoaded = function()
 
     Media.DisplayMessage("This is the day we finish the DA. Take the HQ!")
     DestroyObjective = Penta.AddPrimaryObjective("Capture or destroy the DA Headquarters.")
-    NitroObjective = Penta.AddSecondaryObjective("Destroy the Nitro base.")
+    NitroObjective = Penta.AddSecondaryObjective("Destroy the DA base.")
     ShadeObjective = Penta.AddSecondaryObjective("Destroy the Shade base.")
 
     Trigger.OnKilledOrCaptured(DAHQ, function()
@@ -17,7 +17,7 @@ WorldLoaded = function()
 end
 
 Tick = function()
-    if Nitro.HasNoRequiredUnits() then
+    if DA.HasNoRequiredUnits() then
         Penta.MarkCompletedObjective(NitroObjective)
     end
 

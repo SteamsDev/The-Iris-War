@@ -21,3 +21,7 @@ KATY:
 IVAN:
 	Buildable:
 		Prerequisites: ~disabled
+
+AMCV:
+	Buildable:
+		Prerequisites: ~disabled

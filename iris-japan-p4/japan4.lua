@@ -8,7 +8,7 @@ WorldLoaded = function()
 	Media.DisplayMessage("Capture the DA Headquarters. DO NOT DESTROY IT!!!", "Objective")
 
 	Trigger.OnKilled(DAHQ, function()
-		Penta.MarkFailedObjective(CaptureObjective)
+		Player.MarkFailedObjective(CaptureObjective)
 	end)
 
 	Trigger.OnCapture(DAHQ, function()

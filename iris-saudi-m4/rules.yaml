@@ -1,0 +1,27 @@
+Player:
+	PlayerResources:
+		DefaultCashDropdownLocked: True
+		DefaultCash: 7000
+	LobbyPrerequisiteCheckbox@REVEALONFIRE:
+		Enabled: True
+
+World:
+	MapOptions:
+		TechLevel: medium
+		TechLevelDropdownLocked: True
+	LuaScript:
+		Scripts: saudi4.lua
+	MissionData:
+		Briefing: Iris War - Saudi Arabia - Shade Mission 4
+
+KATY:
+	Buildable:
+		Prerequisites: ~disabled
+
+IVAN:
+	Buildable:
+		Prerequisites: ~disabled
+
+AMCV:
+	Buildable:
+		Prerequisites: ~disabled

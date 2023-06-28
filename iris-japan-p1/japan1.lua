@@ -56,17 +56,21 @@ WorldLoaded = function()
 		end
 	end)
 
-	-- Unused - Enable only when bot set to something other than campaign.
-	--[[
+	
 	Trigger.AfterDelay(DateTime.Seconds(5), function()
-		Reinforcements.Reinforce(PentaAlly, Destroyer, {AllyWaypointOne.Location})
-		Reinforcements.Reinforce(PentaAlly, Destroyer, {AllyWaypointTwo.Location})
-		Trigger.AfterDelay(DateTime.Seconds(5), function()
-			Reinforcements.Reinforce(PentaAlly, Destroyer, {AllyWaypointOne.Location})
-			Reinforcements.Reinforce(PentaAlly, Destroyer, {AllyWaypointTwo.Location})
+		Reinforcements.ReinforceWithTransport(PentaAlly, Transport, TransportThree, {AllyWaypointOne.Location, AllyDropoffOne.Location}, nil, function(ta, a)
+			ta.UnloadPassengers()
+			for i=1, #a do
+				a[i].Hunt()
+			end	
+		end)
+		Reinforcements.ReinforceWithTransport(PentaAlly, Transport, TransportThree, {AllyWaypointTwo.Location, AllyDropoffTwo.Location}, nil, function(ta, a)
+			ta.UnloadPassengers()
+			for i=1, #a do
+				a[i].Hunt()
+			end	
 		end)
 	end)
-	--]]
 
 	Trigger.OnAllKilled(TurretsWest, function()
 		ReinforcePlayerWhenBeachheadDestroyed()
