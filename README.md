@@ -16,34 +16,40 @@ For over 100 years, the capital nations of the three major continents - North Am
 
 # Sides
 
-<h4>Penta Elite Force</h4>
+### Penta Elite Force
 <img src="https://user-images.githubusercontent.com/20361090/212180470-77ba8800-d2d3-42ec-8103-848daf472e2a.png" width="512" height="300">
 
-<p>The Penta is a group that believes in a capital market controlled by independent governments. They specialize in laser technology and pushed the limits of light and plasma. The alliance benefitted from their leadership and advancement in technology before the split. The Penta occupy most of the uninhabited areas owned by independent organizations that joined forces with Penta.</p>
+The Penta is a group that believes in a capital market controlled by independent governments. They specialize in laser technology and pushed the limits of light and plasma. The alliance benefitted from their leadership and advancement in technology before the split. The Penta occupy most of the uninhabited areas owned by independent organizations that joined forces with Penta.
 
-<h4>Nations of Shade</h4>
+### Nations of Shade
 <img src="https://user-images.githubusercontent.com/20361090/212180948-1c31c3b0-8f08-4079-afca-5802e2544345.png" width="512" height="300">
  
-<p>The Shade was what’s left of the Iris Alliance after the split. They were the first to engineer advanced naval forces as well as complete facilities built on water. The governing body before the split was moving towards a regimen for government-provided care and insurance. The former Iris Alliance, not known as the Shade, occupies the major areas that the alliance held onto during the Iris War.</p>
+ The Shade was what’s left of the Iris Alliance after the split. They were the first to engineer advanced naval forces as well as complete facilities built on water. The governing body before the split was moving towards a regimen for government-provided care and insurance. The former Iris Alliance, not known as the Shade, occupies the major areas that the alliance held onto during the Iris War.
 
-<h4>Nitro Orthodoxy</h4>
+### Nitro Orthodoxy
  <img src="https://user-images.githubusercontent.com/20361090/212181059-332e878e-012a-4e9a-9c5c-7a6ed63dbab3.png" width="512" height="300">
 
-<p>The Nitro is a rebel group once associated with the Iris Alliance. They began shifting towards an all-girl team and began implementing older, more robust technologies shortly after the split. They specialize in war machines capable of mass destruction, as well as repurpose older technologies to supply their army. The Nitro made their presence known by attacking and occupying land from both the Nations of Shade and the Penta Elite Force.</p>
+The Nitro is a rebel group once associated with the Iris Alliance. They began shifting towards an all-girl team and began implementing older, more robust technologies shortly after the split. They specialize in war machines capable of mass destruction, as well as repurpose older technologies to supply their army. The Nitro made their presence known by attacking and occupying land from both the Nations of Shade and the Penta Elite Force.
 
 # Stories
 
-<h4>Part 1: Japan (Penta Elite Force)</h4>
+### Part 1: Japan (Penta Elite Force)
 <p>The Penta Elite Force take advantage of both their enemies turning a blind eye and invade Japan at one of their critical points: just south of Tokyo. They have to deal with the local militia first, who prove formidable, but not unbeatable. When the Penta push further into Tokyo, they learn that Nitro has discovered Japan as well and plans to stake a claim in it. The two go head-to-head while Penta deals with the Japanese militia, who eventually loses so much that they are forced to run, taking with them some of their technology and taking refuge over at Nitro. Penta, aroused by this, fights Nitro harder than ever before, but neither can get a firm hold on the country.</p>
 
-<h4>Part 2: Saudi Arabia (Nations of Shade)</h4>
-<p>As their resources steadily drain, The Shade decide to take control of Saudi Arabia, currently controlled by the Nitro, which contains many oil rserves and wells that can help fund their war efforts. The two would do battle until, as the Shade drew near, Nitro is forced to escape due to the Penta cutting them off at sea. The Shade believes they won, until the Penta infiltrates them from inside and assaults them from all angles. The Shade have to do their best to fight off the Penta and anticipate a move by Nitro at the same time.</p>
+### Part 2: Saudi Arabia (Nations of Shade)
+As their resources steadily drain, The Shade decide to take control of Saudi Arabia, currently controlled by the Nitro, which contains many oil rserves and wells that can help fund their war efforts. The two would do battle until, as the Shade drew near, Nitro is forced to escape due to the Penta cutting them off at sea. The Shade believes they won, until the Penta infiltrates them from inside and assaults them from all angles. The Shade have to do their best to fight off the Penta and anticipate a move by Nitro at the same time.
 
-<h4>Part 3: Brazil (Nitro Orthodoxy)</h4>
-<p>With Mexico firmly in their grasp, the Nitro push down towards the Shade's domain in Brazil, where a lot of the former Iris Alliance's well-kept secrets are stored. After capturing the Mayan Ruins and the State of Amazonas, they secure an ore field and use the local militia to expand their arsenal. They eventually come close to the Shade's main headquarters in Brazil, but something becomes amiss among the Nitro ranks, and the seemingly easy quest started to take a turn...</p>
+### Part 3: Brazil (Nitro Orthodoxy)
+With Mexico firmly in their grasp, the Nitro push down towards the Shade's domain in Brazil, where a lot of the former Iris Alliance's well-kept secrets are stored. After capturing the Mayan Ruins and the State of Amazonas, they secure an ore field and use the local militia to expand their arsenal. They eventually come close to the Shade's main headquarters in Brazil, but something becomes amiss among the Nitro ranks, and the seemingly easy quest started to take a turn...
 
-<h4>Part 4: Alaska (Penta Elite Force)</h4>
-<p>To be written.</p>
+### Part 4: Alaska (Penta Elite Force)
+To be written
 
-<h4>Part 5: United Kingdom (Nations of Shade)</h4>
-<p>To be written </p>
+### Part 5: United Kingdom (Nations of Shade)
+To be written
+
+### Part 6: Australia (Nito Orthodoxy)
+To be written
+
+### Part 7: U.S.A. (Epilogue)
+To be written
