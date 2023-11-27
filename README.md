@@ -24,7 +24,7 @@ The Penta is a group that believes in a capital market controlled by independent
 ### Nations of Shade
 <img src="https://user-images.githubusercontent.com/20361090/212180948-1c31c3b0-8f08-4079-afca-5802e2544345.png" width="512" height="300">
  
- The Shade was what’s left of the Iris Alliance after the split. They were the first to engineer advanced naval forces as well as complete facilities built on water. The governing body before the split was moving towards a regimen for government-provided care and insurance. The former Iris Alliance, not known as the Shade, occupies the major areas that the alliance held onto during the Iris War.
+ The Shade consists of what’s left of the Iris Alliance after the split. They were the first to engineer advanced naval forces as well as complete facilities built on water. The governing body before the split was moving towards a regimen for government-provided care and insurance. The former Iris Alliance, not known as the Shade, occupies the major areas that the alliance held onto during the Iris War.
 
 ### Nitro Orthodoxy
  <img src="https://user-images.githubusercontent.com/20361090/212181059-332e878e-012a-4e9a-9c5c-7a6ed63dbab3.png" width="512" height="300">
