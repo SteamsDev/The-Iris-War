@@ -12,7 +12,7 @@ World:
 	LuaScript:
 		Scripts: saudi5.lua
 	MissionData:
-		Briefing: Iris War - Saudi Arabia - Shade Mission 5: Protect the Oil
+		Briefing: Iris War - Saudi Arabia - Shade Mission 5: Protect the Oil!\n\nIn a surprising turn of events, the Penta have entered the country and started taking control of some of the Shade and Nitro domains. Now a critical oil facility owned by the Shade and the local militia is in danger of falling to the Penta's continued strangulation. You are tasked with protecting the oil derricks and driving out the invading Penta forces.\n\nObjective 1: Protect at least four of the oil derricks in the area.\nObjective 2: Drive out the Penta.
 
 KATY:
 	Buildable:
