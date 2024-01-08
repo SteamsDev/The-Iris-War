@@ -6,6 +6,7 @@ The Iris War is a project on the platform OpenRA: Combined Arms, as a playable s
 
 * Navigate to the OpenRA custom maps folder:
   * On Windows: `C:\Users\<username>\AppData\Roaming\OpenRA\Maps\ca\<version>\`
+  * On MacOS: `/Users/<username>/Library/Application Support/OpenRA/maps/ca/<version>/`
   * On Linux: `/home/<username>/.config/OpenRA/Maps/ca/<version>/`
 * Copy the maps into that folder.
 * Start up Combined Arms and enjoy!
