@@ -56,3 +56,10 @@ To be written
 
 ### Part 7: U.S.A. (Epilogue)
 To be written
+
+# Acknowledgements
+
+Shoutout to Darkademic for creating Combined Arms and the community for helping improve the mod and this campaign.
+Check out/Install Combined Arms: https://github.com/darkademic/CAmod
+
+This repository is licensed under GPL 3.0: https://www.gnu.org/licenses/gpl-3.0.en.html
