@@ -1,0 +1,41 @@
+Player:
+	EnemyWatcher:
+	PlayerResources:
+		DefaultCashDropdownLocked: True
+		DefaultCash: 7000
+	LobbyPrerequisiteCheckbox@REVEALONFIRE:
+		Enabled: True
+
+World:
+	MapOptions:
+		TechLevel: low
+		TechLevelDropdownLocked: True
+	TimeLimitManager:
+		CountdownLabel: MISSION_TEXT
+		CountdownText: {0} remaining.
+		SkipTimerExpiredNotification: True
+	LuaScript:
+		Scripts: usa1.lua
+	MissionData:
+		Briefing: The Iris War - U.S.A. - Epilogue Mission 1: Secret Meeting\n\nThe Councils of three major civilian armies from around the world have gathered in a small village in the USA. These three Councils are:\n\n - The Council of Kivotos, which represents Australia and most of Asia,\n\n - The Council of Sankalpa, which represents all of Africa, the European Union and lower Asia, and\n\n - The Council of New Hope, which represents the United Kingdom as well as all of North and South America.\n\nYou have been invited to attend a meeting with the three Councils as they discuss their next move in the war, but they have also expressed their need for a protectorate, as the Nations of Shade, who have occupied the area surrounding ther village, has begun to catch on to them. The Councils have asked you to scout the area and see of the Shade is up to something.\n\nObjective: Scout the area and follow any insturctions received.
+
+KATY:
+	Buildable:
+		Prerequisites: ~disabled
+
+IVAN:
+	Buildable:
+		Prerequisites: ~disabled
+
+AMCV:
+	Buildable:
+		Prerequisites: ~disabled
+
+E1:
+	AnnounceOnSeen:
+
+CHAN:
+	AnnounceOnSeen:
+
+RTNK:
+	AnnounceOnSeen:

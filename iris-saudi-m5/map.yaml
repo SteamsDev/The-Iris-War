@@ -40,13 +40,13 @@ Players:
 		Enemies: Penta
 	PlayerReference@Penta:
 		Name: Penta
-		Bot: normal
+		Bot: hard
 		Faction: usa
 		Color: 6D00A5
 		Enemies: Shade, DA
 	PlayerReference@DA:
 		Name: DA
-		Bot: hard
+		Bot: normal
 		Faction: eagle
 		Color: 8B88B1
 		Allies: Shade

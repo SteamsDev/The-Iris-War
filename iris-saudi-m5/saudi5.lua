@@ -11,6 +11,7 @@ WorldLoaded = function()
 
     ProtectObjective = Shade.AddPrimaryObjective("Keep at least four of the oil derricks intact.")
     DestroyObj = Shade.AddPrimaryObjective("Drive out the Penta.")
+
 end
 
 Tick = function()

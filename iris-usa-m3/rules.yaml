@@ -1,0 +1,32 @@
+Player:
+	EnemyWatcher:
+	PlayerResources:
+		DefaultCashDropdownLocked: True
+		DefaultCash: 5000
+	LobbyPrerequisiteCheckbox@REVEALONFIRE:
+		Enabled: True
+
+World:
+	MapOptions:
+		TechLevel: medium
+		TechLevelDropdownLocked: True
+	TimeLimitManager:
+		CountdownLabel: MISSION_TEXT
+		CountdownText: Time until the Nitro forces arrive: {0}
+		SkipTimerExpiredNotification: True
+	LuaScript:
+		Scripts: usa3.lua
+	MissionData:
+		Briefing: The Iris War - U.S.A. - Epilogue Mission 3: New Advancements\n\nThanks to the contributions of the three Councils as well as the technology stolen from the three main armies in the war, the new alliance has developed a new unmanned battle tank that could be mass-produced at a cheap cost. Many of them have found practical use already, but this will be their first major test. To help the Council of Sankalpa establish a dedicated facility, you will need to punch through a Nitro Orthodoxy production facility in the region. You should have no problem with some drones at your disposal.\n\nObjective 1: Destroy the Nitro production facility.\nObjective 2: Defend the area from the oncoming Nitro counterattack.
+
+KATY:
+	Buildable:
+		Prerequisites: ~disabled
+
+IVAN:
+	Buildable:
+		Prerequisites: ~disabled
+
+MCV:
+	Buildable:
+		Prerequisites: ~disabled
