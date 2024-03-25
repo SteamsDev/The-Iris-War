@@ -1,0 +1,28 @@
+Player:
+	PlayerResources:
+		DefaultCashDropdownLocked: True
+		DefaultCash: 8000
+	LobbyPrerequisiteCheckbox@REVEALONFIRE:
+		Enabled: True
+
+World:
+	MapOptions:
+		TechLevel: high
+		TechLevelDropdownLocked: True
+	TimeLimitManager:
+		CountdownLabel: MISSION_TEXT
+		CountdownText: {0} remaining
+		Notification: The Council Meeting ends in {0} minute{1}.
+		SkipTimerExpiredNotification: True
+	LuaScript:
+		Scripts: usa5.lua
+	MissionData:
+		Briefing: The Iris War - U.S.A. - Epilogue Mission 5: Second Meeting\n\nThe second meeting of the three councils is now taking place at a location within a big city. Unfortunately the Shade and Nitro have engaged in combat nearby, possibly investigating the actions of the Councils. You have only a small force at your disposal, but with the two sides preoccupied with one another you may be able to use that to your advantage. Keep the Councils safe and deal with the two of them afterward.\n\nObjective 1: Defend the meeting site until the Councils have been dismissed.\nObjective 2: Use the reinforcements to eliminate the Shade and Nitro.
+
+MCV:
+	Buildable:
+		Prerequisites: ~disabled
+
+AMCV:
+	Buildable:
+		Prerequisites: ~disabled
