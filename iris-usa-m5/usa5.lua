@@ -20,6 +20,7 @@ ShadeAttacks = function ()
 	end
 end
 
+-- Also unused
 NitroAttacks = function ()
 	if CouncilsDone == false and NitroDefeated == false then
 		Reinforcements.Reinforce(Nitro, NitroTaskForce, {NitroSpawn.Location, NitroPoint.Location}, 0, function (a)
@@ -76,8 +77,10 @@ Tick = function ()
     if CouncilsDone == true then
         if Shade.HasNoRequiredUnits() and Nitro.HasNoRequiredUnits() and GameDone == false then
 			GameDone = true
-            Media.DisplayMessage("Our enemies have been dealt with. Objective complete.")
-            Pliar.MarkCompletedObjective(DestroyObjective)
+            Trigger.AfterDelay(20, function ()
+                Media.DisplayMessage("Our enemies have been dealt with. Objective complete.")
+                Pliar.MarkCompletedObjective(DestroyObjective)
+            end)
         end
     end
 

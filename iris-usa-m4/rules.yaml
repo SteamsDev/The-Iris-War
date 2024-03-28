@@ -12,7 +12,7 @@ World:
 	LuaScript:
 		Scripts: usa4.lua
 	MissionData:
-		Briefing: The Iris War - U.S.A. - Epilogue Mission 4: New Hopes\n\nOne final side that needs to establish their new foothold is the Council of New Hope, who have kept a Penta Elite security outpost under wraps until they were needed. The guards have let you in on a plot of land that would suit your needs as well as the Council’s, but they said that there might still be some Penta forces in the area. If they discover you, you know how to deal with them.\n\nObjective 1: Establish the New Hope’s base and protect it.\nObjective 2: Eliminate the Penta Elite forces in the area.
+		Briefing: The Iris War - U.S.A. - Epilogue Mission 4: New Hopes\n\nOne final side that needs to establish their new foothold is the Council of New Hope, who have kept a Penta Elite security outpost under wraps until they were needed. The guards have let you in on a plot of land that would suit your needs as well as the Council's, but they said that there might still be some Penta forces in the area. If they discover you, you know how to deal with them.\n\nObjective 1: Establish the New Hope's base and protect it.\nObjective 2: Eliminate the Penta Elite forces in the area.
 
 MCV:
 	Buildable:

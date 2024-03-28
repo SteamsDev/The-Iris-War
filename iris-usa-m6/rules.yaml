@@ -1,0 +1,23 @@
+Player:
+	PlayerResources:
+		DefaultCashDropdownLocked: True
+		DefaultCash: 8000
+	LobbyPrerequisiteCheckbox@REVEALONFIRE:
+		Enabled: True
+
+World:
+	MapOptions:
+		TechLevel: medium
+		TechLevelDropdownLocked: True
+	LuaScript:
+		Scripts: usa6.lua
+	MissionData:
+		Briefing: The Iris War - U.S.A. - Epilogue Mission 6: Port Authority\n\nThe new alliance is looking to expand their naval capabilities. With Kivotos' innovation and the New Hope's capabilities, all they need is a location suitable for their needs. A destroyed Penta base with plenty of resources and bordering the ocean has become an ideal site for this, assuming you can salvage or even reactivate some of the facilities there. Investigate the area and begin assembling a facility to meet the alliance's needs.\n\nObjective 1: Escort the construction vehicle to the designated area and begin building a base.\nObjective 2: Build at least five naval vessels.\nObjective 3: Find and destroy any nearby enemies.
+
+MCV:
+	Buildable:
+		Prerequisites: ~disabled
+
+AMCV:
+	Buildable:
+		Prerequisites: ~disabled

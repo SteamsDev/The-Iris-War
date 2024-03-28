@@ -29,7 +29,7 @@ Players:
 	PlayerReference@Kivotos:
 		Name: Kivotos
 		Bot: normal
-		Faction: arc
+		Faction: eagle
 		Color: 03FCFC
 		Allies: Player
 		Enemies: ShadeActive
