@@ -12,16 +12,12 @@ World:
 	LuaScript:
 		Scripts: saudi3.lua
 	MissionData:
-		Briefing: Iris War - Saudi Arabia - Shade Mission 3
+		Briefing: Iris War - Saudi Arabia - Shade Mission 3: March of Madness\n\nThe local civilian population in the area, freed from Nitro tyranny, have joined your side to get payback from the opressors. Take down the nearby Nitro outpost to help establish your presence on the continent.\n\nObjective: Eliminate the Nitro base.\n\nBonus Objective: Protect the civilian village and factories.
 
 KATY:
 	Buildable:
 		Prerequisites: ~disabled
 
 IVAN:
-	Buildable:
-		Prerequisites: ~disabled
-
-AMCV:
 	Buildable:
 		Prerequisites: ~disabled

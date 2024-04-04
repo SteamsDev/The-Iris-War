@@ -672,4 +672,4 @@ Actors:
 		Owner: ShadeIdle
 		Location: 50,3
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

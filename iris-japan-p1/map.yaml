@@ -956,4 +956,4 @@ Actors:
 		Location: 17,35
 		Facing: 261
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

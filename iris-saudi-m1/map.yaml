@@ -39,7 +39,7 @@ Players:
 		Enemies: Nitro
 	PlayerReference@Nitro:
 		Name: Nitro
-		Bot: easy
+		Bot: campaign
 		Faction: ukraine
 		Color: FEFE00
 		Allies: DA
@@ -689,8 +689,8 @@ Actors:
 		Location: 40,39
 	Actor202: 3tnk.yuri
 		Owner: Nitro
-		Facing: 384
 		Location: 40,23
+		Facing: 1023
 	Actor203: e1
 		Owner: Nitro
 		Facing: 384
@@ -863,4 +863,4 @@ Actors:
 		Owner: Neutral
 		Location: 55,4
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

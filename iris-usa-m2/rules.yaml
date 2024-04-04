@@ -15,6 +15,10 @@ World:
 	MissionData:
 		Briefing: The Iris War - U.S.A. - Epilogue Mission 2: New Homes\n\nThe three Councils are working to build new establishments in the USA. You are first going to help the Council of Kivotos set up a new training academy in the mountains. Scout the area and find the three key locations in the region, then assist the Council in taking out any enemies in the area.\n\nObjective 1: Find the ore pit, open area, and the Shade base.\nObjective 2: Assist Kivotos in destroying the Shade base.
 
+MCV:
+	Buildable:
+		Prerequisites: ~disabled
+
 KATY:
 	Buildable:
 		Prerequisites: ~disabled

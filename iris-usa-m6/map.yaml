@@ -241,12 +241,6 @@ Actors:
 		Faction: Random
 		Health: 10
 		Owner: Penta
-	Actor49: proc
-		Location: 46,23
-		FreeActor: False
-		Faction: Random
-		Health: 17
-		Owner: Penta
 	Actor44: proc
 		Location: 45,48
 		Faction: Random
@@ -695,11 +689,6 @@ Actors:
 	BaseCamera: waypoint
 		Owner: Neutral
 		Location: 59,40
-	Actor194: harv
-		Location: 47,27
-		Faction: arc
-		Facing: 384
-		Owner: Penta
 	Actor196: e6
 		Owner: Player
 		SubCell: 3
@@ -950,4 +939,4 @@ Actors:
 		Owner: Neutral
 		Location: 41,90
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

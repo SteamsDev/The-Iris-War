@@ -29,7 +29,7 @@ SecondPhase = function ()
     DefendObjective = Pliar.AddPrimaryObjective("Defend the meeting location in the center of the base.")
     Pliar.MarkCompletedObjective(ScoutObjective)
     Trigger.AfterDelay(DateTime.Seconds(3), function ()
-        Media.DisplayMessage("We have activated some of the facilities in the camp. Use then well.")
+        Media.DisplayMessage("The Councils have activated some of the facilities in the camp. Use then well.")
         for i=1, #CouncilCamp do
             CouncilCamp[i].Owner = Pliar
         end
@@ -119,6 +119,8 @@ WorldLoaded = function ()
 
     Trigger.OnDiscovered(HideMe, function ()
         HideMe.Owner = Pliar
-        Media.DisplayMessage("You found me! I don't know many people who come out here that often. You have a lot on your plate, right? How about I help you out?", "Jarkill")
+		HideMe2.Owner = Pliar
+		HideMe3.Owner = Pliar
+        Media.DisplayMessage("You found me! I don't know many people who come out here that often. You have a lot on your plate, right? How about we help you out?", "Jarkill")
     end)
 end

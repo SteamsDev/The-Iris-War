@@ -60,15 +60,19 @@ WorldLoaded = function()
 	Trigger.AfterDelay(DateTime.Seconds(5), function()
 		Reinforcements.ReinforceWithTransport(PentaAlly, Transport, TransportThree, {AllyWaypointOne.Location, AllyDropoffOne.Location}, nil, function(ta, a)
 			ta.UnloadPassengers()
-			for i=1, #a do
-				a[i].Hunt()
-			end	
+			Utils.Do(a, function (ai)
+				Trigger.OnIdle(ai, function (ai)
+					ai.Hunt()
+				end)
+			end)
 		end)
 		Reinforcements.ReinforceWithTransport(PentaAlly, Transport, TransportThree, {AllyWaypointTwo.Location, AllyDropoffTwo.Location}, nil, function(ta, a)
 			ta.UnloadPassengers()
-			for i=1, #a do
-				a[i].Hunt()
-			end	
+			Utils.Do(a, function (ai)
+				Trigger.OnIdle(ai, function (ai)
+					ai.Hunt()
+				end)
+			end)
 		end)
 	end)
 

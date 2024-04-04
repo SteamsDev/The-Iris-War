@@ -525,4 +525,4 @@ Actors:
 		Owner: Penta
 		Location: 10,1
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

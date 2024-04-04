@@ -4,6 +4,7 @@ Player:
 		DefaultCash: 7500
 	LobbyPrerequisiteCheckbox@REVEALONFIRE:
 		Enabled: True
+		Locked: True
 
 World:
 	MapOptions:

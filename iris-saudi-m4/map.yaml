@@ -245,9 +245,6 @@ Actors:
 	Actor65: oilb
 		Owner: DA
 		Location: 24,6
-	Actor66: oilb
-		Owner: DA
-		Location: 24,8
 	Actor67: v25
 		Owner: DA
 		Location: 16,4
@@ -495,5 +492,41 @@ Actors:
 	Actor128: v30
 		Owner: Neutral
 		Location: 9,35
+	Actor129: weap.td
+		Owner: DA
+		Location: 24,9
+	Actor130: waypoint
+		Owner: Neutral
+		Location: 26,82
+	Actor131: waypoint
+		Owner: Neutral
+		Location: 38,82
+	Actor132: waypoint
+		Owner: Neutral
+		Location: 32,82
+	Actor133: waypoint
+		Owner: Neutral
+		Location: 31,1
+	Actor134: waypoint
+		Owner: Neutral
+		Location: 31,6
+	Actor135: waypoint
+		Owner: Neutral
+		Location: 48,6
+	Actor136: waypoint
+		Owner: Neutral
+		Location: 48,1
+	Actor137: rock3
+		Owner: Neutral
+		Location: 54,31
+	Actor138: rock7
+		Owner: Neutral
+		Location: 47,27
+	Actor139: t18
+		Owner: Neutral
+		Location: 60,25
+	Actor140: hosp
+		Owner: Neutral
+		Location: 62,67
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

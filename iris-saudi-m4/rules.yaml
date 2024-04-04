@@ -12,7 +12,7 @@ World:
 	LuaScript:
 		Scripts: saudi4.lua
 	MissionData:
-		Briefing: Iris War - Saudi Arabia - Shade Mission 4
+		Briefing: Iris War - Saudi Arabia - Shade Mission 4: Push Out\n\nThe Nitro have been successfully pushed back to their primary fortress in the region. While heavily defended, the might of both you and the now well-equipped civilian population should be enough to take it down. Destroy the final Nitro base and take the country once and for all!\n\nObjective: Destroy the final Nitro base in the region.
 
 KATY:
 	Buildable:

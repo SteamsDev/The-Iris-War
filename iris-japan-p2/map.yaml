@@ -800,4 +800,4 @@ Actors:
 		Owner: Neutral
 		Location: 43,58
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

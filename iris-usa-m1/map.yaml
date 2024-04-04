@@ -734,9 +734,9 @@ Actors:
 		Location: 42,31
 	Actor236: spy
 		Owner: Council
-		Facing: 384
 		SubCell: 3
 		Location: 46,30
+		Facing: 384
 	Actor237: e6
 		Owner: Council
 		Facing: 384
@@ -769,8 +769,8 @@ Actors:
 		Location: 43,23
 	Actor243: xo
 		Owner: Council
-		Facing: 384
 		Location: 49,23
+		Facing: 384
 	CouncilRef: proc
 		Owner: Council
 		Location: 38,16
@@ -817,8 +817,8 @@ Actors:
 	Actor253: shad
 		Owner: Council
 		SubCell: 3
-		Facing: 384
 		Location: 54,28
+		Facing: 384
 	Actor254: c10
 		Owner: Council
 		Facing: 384
@@ -1266,9 +1266,9 @@ Actors:
 		Location: 54,18
 	Actor377: e3r1
 		Owner: Council
-		Facing: 384
 		SubCell: 3
 		Location: 54,20
+		Facing: 384
 	Actor378: e1
 		Owner: Council
 		Facing: 384
@@ -1552,5 +1552,26 @@ Actors:
 		Owner: Neutral
 		Location: 88,69
 		Facing: 111
+	HideMe2: rtnk
+		Owner: Neutral
+		Location: 88,70
+		Facing: 388
+	HideMe3: rtnk
+		Owner: Neutral
+		Location: 89,69
+		Facing: 888
+	Actor434: arco
+		Owner: Neutral
+		Location: 10,13
+	Actor435: windmill
+		Owner: Neutral
+		Location: 13,7
+	Actor436: v09
+		Owner: Neutral
+		Location: 5,13
+	Actor437: ltnk
+		Owner: Council
+		Location: 5,11
+		Facing: 491
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

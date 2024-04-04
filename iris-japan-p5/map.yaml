@@ -629,4 +629,4 @@ Actors:
 		Owner: Neutral
 		Location: 39,44
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

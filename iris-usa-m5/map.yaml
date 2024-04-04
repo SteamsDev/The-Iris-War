@@ -1123,4 +1123,4 @@ Actors:
 		Owner: Shade
 		Location: 26,49
 
-Rules: ca|rules/campaign-rules.yaml, rules.yaml
+Rules: ca|rules/custom/campaign-rules.yaml, rules.yaml

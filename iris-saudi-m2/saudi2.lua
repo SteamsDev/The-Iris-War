@@ -1,5 +1,4 @@
 DerricksCaptured = false
-RefineriesCaptured = true
 
 
 WorldLoaded = function()
@@ -7,25 +6,16 @@ WorldLoaded = function()
     Nitro = Player.GetPlayer("Nitro")
     Camera.Position = Actor7.CenterPosition
 
-    CaptureObj = Shade.AddPrimaryObjective("Capture all of Nitro's oil derricks and refineries.")
+    CaptureObj = Shade.AddPrimaryObjective("Capture all of Nitro's oil derricks.")
     DestroyObj = Shade.AddPrimaryObjective("Destroy all Nitro forces.")
 
     Derricks = Nitro.GetActorsByType("oilb")
-    Refineries = Nitro.GetActorsByType("proc")
 
     Trigger.OnAllKilledOrCaptured(Derricks, function ()
         DerricksCaptured = true
     end)
 
-    Trigger.OnAllKilledOrCaptured(Refineries, function ()
-        RefineriesCaptured = true
-    end)
-
     Trigger.OnAnyKilled(Derricks, function ()
-        Shade.MarkFailedObjective(CaptureObj)
-    end)
-
-    Trigger.OnAnyKilled(Refineries, function ()
         Shade.MarkFailedObjective(CaptureObj)
     end)
 
